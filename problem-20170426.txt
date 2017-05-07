@@ -1,2 +1,0 @@
-1.tomcat启动404
-	把eclipse中的tomcat的server location设置为use tomcat installation

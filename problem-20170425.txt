@@ -1,5 +1,0 @@
-1.eclipse启动error:An internal error occurred during: "Initializing Java Tooling
-	方法一：window->perspective->reset perspective
-	方法二：删除当前工作目录下的WORKSPACE_HOME/.metadata/.plugins/org.eclipse.core.resources/.project，然后重新启动Eclipse
-2.tomcat启动时间配置
-	workspace\.metadata\.plugins\org.eclipse.wst.server.core\servers.xml
