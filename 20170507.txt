@@ -1,0 +1,2 @@
+windos的hosts文件：c:/windows/system32/drivers/etc/hosts
+域名服务器通常填网关地址，因为网关属于某个DNS服务器，它自动会去寻找相应的域名服务器
